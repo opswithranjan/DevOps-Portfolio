@@ -257,26 +257,18 @@ const achievementSection = {
         {
           name: "Certification",
           url: "https://drive.google.com/file/d/0B7kazrtMwm5dYkVvNjdNWjNybWJrbndFSHpNY2NFV1p4YmU0/view?usp=sharing"
-        },
-        {
-          name: "Award Letter",
-          url: "https://drive.google.com/file/d/0B7kazrtMwm5dekxBTW5hQkg2WXUyR3QzQmR0VERiLXlGRVdF/view?usp=sharing"
-        },
-        {
-          name: "Google Code-in Blog",
-          url: "https://opensource.googleblog.com/2019/01/google-code-in-2018-winners.html"
         }
       ]
     },
     {
       title: "Microsoft Azure Administrator Associate",
       subtitle:
-        "Developed a Google Assistant Action JavaScript Guru that is available on 2 Billion devices world wide.",
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
       image: require("./assets/images/googleAssistantLogo.webp"),
       imageAlt: "Google Assistant Action Logo",
       footerLink: [
         {
-          name: "View Google Assistant Action",
+          name: "Certification",
           url: "https://assistant.google.com/services/a/uid/000000100ee688ee?hl=en"
         }
       ]
@@ -284,13 +276,12 @@ const achievementSection = {
 
     {
       title: "AWS Certified Solutons Architect",
-      subtitle: "Completed Certifcation from SMIT for PWA Web App Development",
+      subtitle: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
       image: require("./assets/images/pwaLogo.webp"),
       imageAlt: "PWA Logo",
       footerLink: [
-        { name: "Certification", url: "" },
         {
-          name: "Final Project",
+          name: "Certification",
           url: "https://pakistan-olx-1.firebaseapp.com/"
         }
       ]
