@@ -97,6 +97,10 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fab fa-ansible"
     },
     {
+      skillName: "Bash",
+      fontAwesomeClassname: "fas fa-terminal"
+    },
+    {
       skillName: "Database",
       fontAwesomeClassname: "fas fa-database"
     },
