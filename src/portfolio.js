@@ -172,7 +172,7 @@ const workExperiences = {
     {
       role: "DevSecOps Engineer",
       company: "Fev India Pvt Ltd",
-      companylogo: require("./assets/images/facebookLogo.png"),
+      //      companylogo: require("./assets/images/fev_logo.png"),
       date: "April 2022 – Present",
       desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
       descBullets: [
@@ -183,14 +183,14 @@ const workExperiences = {
     {
       role: "DevSecOps Lead",
       company: "Medius Technologies Pvt Ltd",
-      companylogo: require("./assets/images/airbnbLogo.png"),
+      //      companylogo: require("./assets/images/medius.png"),
       date: "Jan 2021 – Present",
       desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
     },
     {
       role: "DevOps Associate",
       company: "Celebal Technologies Pvt Ltd",
-      companylogo: require("./assets/images/quoraLogo.png"),
+      //      companylogo: require("./assets/images/celebal.webp"),
       date: "Sep 2021 – Apr 2022",
       desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
     }
@@ -212,7 +212,7 @@ const bigProjects = {
   subtitle: "SOME STARTUPS AND COMPANIES THAT I HELPED TO CREATE THEIR TECH",
   projects: [
     {
-      image: require("./assets/images/saayaHealthLogo.webp"),
+      image: require("./assets/images/medius.png"),
       projectName: "TheMedius.ai",
       projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
       footerLink: [
@@ -370,7 +370,7 @@ const twitterDetails = {
   display: false // Set true to display this section, defaults to false
 };
 
-const isHireable = true; // Set false if you are not looking for a job. Also isHireable will be display as Open for opportunities: Yes/No in the GitHub footer
+const isHireable = false; // Set false if you are not looking for a job. Also isHireable will be display as Open for opportunities: Yes/No in the GitHub footer
 
 export {
   illustration,
