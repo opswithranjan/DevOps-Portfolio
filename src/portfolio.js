@@ -250,7 +250,7 @@ const achievementSection = {
     {
       title: "Microsoft Azure Certified DevOps Engineer",
       subtitle:
-        "First Pakistani to be selected as Google Code-in Finalist from 4000 students from 77 different countries.",
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
       image: require("./assets/images/codeInLogo.webp"),
       imageAlt: "Google Code-In Logo",
       footerLink: [
