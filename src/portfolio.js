@@ -212,25 +212,25 @@ const bigProjects = {
   subtitle: "SOME STARTUPS AND COMPANIES THAT I HELPED TO CREATE THEIR TECH",
   projects: [
     {
-      image: require("./assets/images/medius.png"),
+      image: require("./assets/images/medius1.png"),
       projectName: "TheMedius.ai",
-      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      projectDesc: "A bank debt collection solution powered by artificial intelligence.",
       footerLink: [
         {
           name: "Visit Website",
-          url: "http://themedius.ai/"
+          url: "https://themedius.ai/"
         }
         //  you can add extra buttons here.
       ]
     },
     {
-      image: require("./assets/images/nextuLogo.webp"),
-      projectName: "Nextu",
-      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      image: require("./assets/images/devopsfolio.png"),
+      projectName: "DevSecOpsFolio",
+      projectDesc: "A clean, beautiful and responsive portfolio template for DevSecOps Engineers!",
       footerLink: [
         {
           name: "Visit Website",
-          url: "http://nextu.se/"
+          url: "https://raje.pro"
         }
       ]
     }
