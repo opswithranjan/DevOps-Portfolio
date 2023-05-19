@@ -131,7 +131,7 @@ const educationInfo = {
   schools: [
     {
       schoolName: "Poornima Institute of Engineering and Technology",
-      logo: require("./assets/images/harvardLogo.png"),
+      logo: require("./assets/images/piet.jpg"),
       subHeader: "Bachelor of Technology in Computer Science",
       duration: "Augest 2018 - July 2022",
       desc: "Participated in the research of DevSecops Trends and published 3 papers.",
