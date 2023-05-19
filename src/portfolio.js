@@ -248,11 +248,11 @@ const achievementSection = {
 
   achievementsCards: [
     {
-      title: "Microsoft Azure Certified DevOps Engineer",
+      title: "Microsoft Azure Certified DevOps Engineer Expert",
       subtitle:
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-      image: require("./assets/images/codeInLogo.webp"),
-      imageAlt: "Google Code-In Logo",
+        "Earning the DevOps Engineer Expert certification demonstrates the ability to combine people, process, and technologies to continuously deliver valuable products and services that meet end user needs and business objectives.",
+      image: require("./assets/images/microsoft-certified-expert-badge.png"),
+      imageAlt: "Az-400 logo",
       footerLink: [
         {
           name: "Certification",
@@ -263,8 +263,8 @@ const achievementSection = {
     {
       title: "Microsoft Azure Administrator Associate",
       subtitle:
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-      image: require("./assets/images/googleAssistantLogo.webp"),
+        "Earning Azure Administrator Associate certification validates the skills and knowledge to implement, manage, and monitor an organization’s Microsoft Azure environment.",
+      image: require("./assets/images/azure-administrator.png"),
       imageAlt: "Google Assistant Action Logo",
       footerLink: [
         {
@@ -276,8 +276,8 @@ const achievementSection = {
 
     {
       title: "AWS Certified Solutons Architect",
-      subtitle: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-      image: require("./assets/images/pwaLogo.webp"),
+      subtitle: "Earners of this certification have a comprehensive understanding of AWS services and technologies.",
+      image: require("./assets/images/AWS SAA-02.png"),
       imageAlt: "PWA Logo",
       footerLink: [
         {
