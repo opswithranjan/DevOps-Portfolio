@@ -174,25 +174,21 @@ const workExperiences = {
       company: "Fev India Pvt Ltd",
       companylogo: require("./assets/images/fev11.jpeg"),
       date: "April 2022 – Present",
-      //      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      //      descBullets: [
-      //        "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-      //        "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
-      //      ]
+      desc: "I streamlines the development and operations pipeline, ensuring efficient deployment and management of software solutions critical to automotive design, production, and testing processes. I ensure that the secure development and deployment of automotive software solutions, maintaining best-in-class security practices within the DevOps lifecycle, and mitigating cybersecurity risks in line with industry standards and regulations.",
     },
     {
       role: "DevSecOps Lead",
       company: "Medius Technologies Pvt Ltd",
       companylogo: require("./assets/images/medius.avif"),
       date: "Jan 2021 – July 2022",
-      //      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      desc: "I've spearhead the integration of development, security, and operations, ensuring the secure and efficient deployment of our cloud-based debt management solutions. I've maintained security controls, conduct risk assessments, automate deployment processes, and guide the team in implementing secure coding practices."
     },
     {
       role: "DevOps Associate",
       company: "Celebal Technologies Pvt Ltd",
       companylogo: require("./assets/images/celebal2.png"),
       date: "Sep 2021 – Apr 2022",
-      //      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      desc: "I was responsible for implementing and managing DevOps processes, including the deployment and orchestration of applications using Kubernetes. My role also involved DataOps tasks, ensuring efficient data pipelines, data quality, and reliable data delivery within the organization's tech stack."
     }
   ]
 };
@@ -214,7 +210,7 @@ const bigProjects = {
     {
       image: require("./assets/images/medius1.png"),
       projectName: "TheMedius.ai",
-      projectDesc: "A bank debt collection solution powered by artificial intelligence.",
+      projectDesc: "Medius is at the forefront of debt management and envisions advancing the economy by empowering financial institutions with practical, technologically advanced solutions for managing their loan accounts. Our cloud platform, built on award-winning machine learning and a robust strategy engine, helps resolve NPAs and provides an empathetic collection experience. Our team of recovery attorneys developed a technology that allows banks not only to foresee but also control risks, thanks to automated pre-litigation and litigation services powered by pre-approved terminology. We're inspired to reduce risks by providing impactful solutions, and we've built a fully automated cloud collection software trusted by recognized banks, NBFCs, and lenders to deliver end-to-end, SaaS-based, collection management tools integrated with legal workflows.",
       footerLink: [
         {
           name: "Visit Website",
@@ -226,7 +222,7 @@ const bigProjects = {
     {
       image: require("./assets/images/devopsfolio.png"),
       projectName: "DevSecOpsFolio",
-      projectDesc: "A clean, beautiful and responsive portfolio template for DevSecOps Engineers!",
+      projectDesc: "A clean, beautiful and responsive portfolio template for DevSecOps Engineers! It allows users to showcase their skills, education, work experience, open-source projects, achievements, blogs, and more. The template, built with advanced technologies like React and Node.js, can be personalized as desired, with an ability to link to GitHub and Medium accounts. It is highly user-friendly, providing instructions for setting up and running the project locally for development and testing. The portfolio can also be dockerized for efficient deployment​.",
       footerLink: [
         {
           name: "Visit Website",
