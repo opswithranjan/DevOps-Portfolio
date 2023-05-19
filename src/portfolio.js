@@ -282,7 +282,7 @@ const achievementSection = {
       footerLink: [
         {
           name: "Certification",
-          url: "https://pakistan-olx-1.firebaseapp.com/"
+          url: "https://raje.pro/"
         }
       ]
     }
