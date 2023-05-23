@@ -34,11 +34,11 @@ const greeting = {
 
 const socialMediaLinks = {
   github: "https://github.com/rekid46",
-  linkedin: "https://www.linkedin.com/",
+  linkedin: "https://www.linkedin.com/in/ranjan-singh-335845206/",
   gmail: "singhtanjan9024@gmail.com",
   gitlab: "https://gitlab.com/rekid46",
-  facebook: "https://www.facebook.com",
-  medium: "https://medium.com/",
+  facebook: "https://www.facebook.com/lifeofranjan",
+  medium: "https://medium.com/@rekid46",
   stackoverflow: "https://stackoverflow.com",
   // Instagram, Twitter and Kaggle are also supported in the links!
   // To customize icons and social links, tweak src/components/SocialMedia
