@@ -26,7 +26,7 @@ const greeting = {
     "An enthusiastic DevSecOps Engineer 🚀 leveraging extensive experience in building secure and scalable cloud infrastructures with cutting-edge tools such as Docker, Kubernetes, Jenkins, Terraform, and AWS/GCP/Azure. Proficient in automating security, development, and operations tasks to drive faster time-to-market, improve product quality, and ensure robust cybersecurity controls."
   ),
   resumeLink:
-    "https://drive.google.com", // Set to empty to hide the button
+    "https://drive.google.com/", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
