@@ -1,29 +1,13 @@
-# This file is the main docker file configurations
+FROM nginx:alpine
 
-# Official Node JS runtime as a parent image
-FROM node:10.16.0-alpine
+#!/bin/sh
 
-# Set the working directory to ./app
-WORKDIR /app
+COPY ./nginx/default.conf /etc/nginx/default.conf
 
-# Install app dependencies
-# A wildcard is used to ensure both package.json AND package-lock.json are copied
-# where available (npm@5+)
-COPY package.json ./
+RUN rm -rf /usr/share/nginx/html/*
 
-RUN apk add --no-cache git
+COPY /build /usr/share/nginx/html
 
-# Install any needed packages
-RUN npm install
+EXPOSE 80
 
-# Audit fix npm packages
-RUN npm audit fix
-
-# Bundle app source
-COPY . /app
-
-# Make port 3000 available to the world outside this container
-EXPOSE 3000
-
-# Run app.js when the container launches
-CMD ["npm", "start"]
+ENTRYPOINT ["nginx", "-g", "daemon off;"]
