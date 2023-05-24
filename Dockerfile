@@ -8,6 +8,6 @@ RUN rm -rf /usr/share/nginx/html/*
 
 COPY /build /usr/share/nginx/html
 
-EXPOSE 80
+EXPOSE 80 8080
 
 ENTRYPOINT ["nginx", "-g", "daemon off;"]
