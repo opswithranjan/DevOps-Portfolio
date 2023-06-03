@@ -26,7 +26,7 @@ const greeting = {
     "An enthusiastic DevSecOps Engineer 🚀 leveraging extensive experience in building secure and scalable cloud infrastructures with cutting-edge tools such as Docker, Kubernetes, Jenkins, Terraform, and AWS/GCP/Azure. Proficient in automating security, development, and operations tasks to drive faster time-to-market, improve product quality, and ensure robust cybersecurity controls."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1U1a5CquAsM-m3KxO739hmzkRj7aPLvB6/view?usp=share_link", // Set to empty to hide the button
+    "https://drive.google.com/file/d/1KBemWtIHXb5qcER9nix25AZxmCjkcdSG/view?usp=share_link", // Set to empty to hide the button
   cvLink:
     "https://docs.google.com/document/d/1lpoGhpAJOKWXpym1ZDLW_CRYJWPef1g9/edit?usp=share_link&ouid=108137088346188852877&rtpof=true&sd=true",
   displayGreeting: true // Set false to hide this section, defaults to true
