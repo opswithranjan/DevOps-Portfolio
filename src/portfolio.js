@@ -275,7 +275,23 @@ const achievementSection = {
       title: "AWS Certified Solutons Architect",
       subtitle: "Earners of this certification have a comprehensive understanding of AWS services and technologies.",
       image: require("./assets/images/AWS SAA-02.png"),
-      imageAlt: "PWA Logo",
+      imageAlt: "Logo",
+      footerLink: [
+        {
+          name: "Certification",
+          url: "https://raje.pro/"
+        }
+      ]
+    }
+  ],
+  display: true // Set false to hide this section, defaults to true
+},
+  
+    {
+      title: "Certified Kubernetes Administrator",
+      subtitle: "It is designed to validate the skills and knowledge of professionals in administering Kubernetes clusters",
+      image: require("./assets/images/AWS SAA-02.png"),
+      imageAlt: "Logo",
       footerLink: [
         {
           name: "Certification",
@@ -358,7 +374,7 @@ const twitterDetails = {
   display: false // Set true to display this section, defaults to false
 };
 
-const isHireable = false; // Set false if you are not looking for a job. Also isHireable will be display as Open for opportunities: Yes/No in the GitHub footer
+const isHireable = true; // Set false if you are not looking for a job. Also isHireable will be display as Open for opportunities: Yes/No in the GitHub footer
 
 export {
   illustration,
