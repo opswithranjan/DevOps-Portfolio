@@ -295,7 +295,7 @@ const achievementSection = {
           url: "https://raje.pro/"
         }
       ]
-    };
+    }
   ],
   display: true // Set false to hide this section, defaults to true
 };
