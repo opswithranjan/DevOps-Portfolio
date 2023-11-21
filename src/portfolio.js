@@ -282,15 +282,12 @@ const achievementSection = {
           url: "https://raje.pro/"
         }
       ]
-    };
-  ],
-  display: true // Set false to hide this section, defaults to true
-},
-  
+    },
+    
     {
       title: "Certified Kubernetes Administrator",
       subtitle: "It is designed to validate the skills and knowledge of professionals in administering Kubernetes clusters",
-      image: require("./assets/images/AWS SAA-02.png"),
+      image: require("./assets/images/CKA.png"),
       imageAlt: "Logo",
       footerLink: [
         {
@@ -298,7 +295,7 @@ const achievementSection = {
           url: "https://raje.pro/"
         }
       ]
-    }
+    };
   ],
   display: true // Set false to hide this section, defaults to true
 };
