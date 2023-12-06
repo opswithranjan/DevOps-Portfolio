@@ -247,7 +247,7 @@ const achievementSection = {
     {
       title: "Microsoft Azure Certified DevOps Engineer Expert",
       subtitle:
-        "Earning the DevOps Engineer Expert certification demonstrates the ability to combine people, process, and technologies to continuously deliver valuable products and services that meet end user needs and business objectives.",
+        "Demonstrated mastery in implementing DevOps practices on the Microsoft Azure platform, showcasing advanced skills in automating workflows, optimizing delivery pipelines, and ensuring seamless collaboration between development and operations teams.",
       image: require("./assets/images/microsoft-certified-expert-badge.png"),
       imageAlt: "Az-400 logo",
       footerLink: [
@@ -260,7 +260,7 @@ const achievementSection = {
     {
       title: "Microsoft Azure Administrator Associate",
       subtitle:
-        "Earning Azure Administrator Associate certification validates the skills and knowledge to implement, manage, and monitor an organization’s Microsoft Azure environment.",
+        "Validated proficiency in deploying, managing, and maintaining Azure resources, demonstrating expertise in implementing and monitoring cloud solutions on the Microsoft Azure platform."",
       image: require("./assets/images/azure-administrator.png"),
       imageAlt: "Google Assistant Action Logo",
       footerLink: [
@@ -273,7 +273,7 @@ const achievementSection = {
 
     {
       title: "AWS Certified Solutions Architect",
-      subtitle: "AWS Certified Solutions Architect - Demonstrated proficiency in designing and implementing scalable, secure, and cost-effective solutions on the Amazon Web Services cloud platform, showcasing expertise in architecting complex systems for optimal performance and reliability.",
+      subtitle: "Demonstrated proficiency in designing and implementing scalable, secure, and cost-effective solutions on the Amazon Web Services cloud platform, showcasing expertise in architecting complex systems for optimal performance and reliability.",
       image: require("./assets/images/AWS SAA-02.png"),
       imageAlt: "Logo",
       footerLink: [
@@ -285,8 +285,8 @@ const achievementSection = {
     },
     
     {
-      title: "Certified Kubernetes Administrator (CKA)",
-      subtitle: "Linux Foundation Certified Kubernetes Administrator (CKA) - Validated proficiency in Kubernetes administration, showcasing skills in deploying and managing containerized applications.",
+      title: "Linux Foundation Certified Kubernetes Administrator (CKA)",
+      subtitle: "Validated proficiency in Kubernetes administration, showcasing skills in deploying and managing containerized applications.",
       image: require("./assets/images/CKA.png"),
       imageAlt: "Logo",
       footerLink: [
@@ -297,8 +297,8 @@ const achievementSection = {
       ]
     },
     {
-      title: "Certified Kubernetes Security Specialist (CKS)",
-      subtitle: "Linux Foundation Certified Kubernetes Security Specialist (CKS) - Recognized expertise in securing Kubernetes clusters and ensuring robust containerized application environments.",
+      title: "Linux Foundation Certified Kubernetes Security Specialist (CKS)",
+      subtitle: "Recognized expertise in securing Kubernetes clusters and ensuring robust containerized application environments.",
       image: require("./assets/images/CKS.png"),
       imageAlt: "Logo",
       footerLink: [
