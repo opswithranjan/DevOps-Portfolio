@@ -272,7 +272,7 @@ const achievementSection = {
     },
 
     {
-      title: "AWS Certified Solutons Architect",
+      title: "AWS Certified Solutions Architect",
       subtitle: "Earners of this certification have a comprehensive understanding of AWS services and technologies.",
       image: require("./assets/images/AWS SAA-02.png"),
       imageAlt: "Logo",
