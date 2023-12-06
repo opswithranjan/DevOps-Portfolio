@@ -260,7 +260,7 @@ const achievementSection = {
     {
       title: "Microsoft Azure Administrator Associate",
       subtitle:
-        "Validated proficiency in deploying, managing, and maintaining Azure resources, demonstrating expertise in implementing and monitoring cloud solutions on the Microsoft Azure platform."",
+        "Validated proficiency in deploying, managing, and maintaining Azure resources, demonstrating expertise in implementing and monitoring cloud solutions on the Microsoft Azure platform.",
       image: require("./assets/images/azure-administrator.png"),
       imageAlt: "Google Assistant Action Logo",
       footerLink: [
