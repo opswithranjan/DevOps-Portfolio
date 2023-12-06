@@ -285,9 +285,21 @@ const achievementSection = {
     },
     
     {
-      title: "Certified Kubernetes Administrator",
-      subtitle: "It is designed to validate the skills and knowledge of professionals in administering Kubernetes clusters",
+      title: "Certified Kubernetes Administrator (CKA)",
+      subtitle: "Linux Foundation Certified Kubernetes Administrator (CKA) - Validated proficiency in Kubernetes administration, showcasing skills in deploying and managing containerized applications.",
       image: require("./assets/images/CKA.png"),
+      imageAlt: "Logo",
+      footerLink: [
+        {
+          name: "Certification",
+          url: "https://raje.pro/"
+        }
+      ]
+    },
+    {
+      title: "Certified Kubernetes Security Specialist (CKS)",
+      subtitle: "Linux Foundation Certified Kubernetes Security Specialist (CKS) - Recognized expertise in securing Kubernetes clusters and ensuring robust containerized application environments.",
+      image: require("./assets/images/CKS.png"),
       imageAlt: "Logo",
       footerLink: [
         {
