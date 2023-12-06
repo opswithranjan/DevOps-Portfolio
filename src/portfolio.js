@@ -273,7 +273,7 @@ const achievementSection = {
 
     {
       title: "AWS Certified Solutions Architect",
-      subtitle: "Earners of this certification have a comprehensive understanding of AWS services and technologies.",
+      subtitle: "AWS Certified Solutions Architect - Demonstrated proficiency in designing and implementing scalable, secure, and cost-effective solutions on the Amazon Web Services cloud platform, showcasing expertise in architecting complex systems for optimal performance and reliability.",
       image: require("./assets/images/AWS SAA-02.png"),
       imageAlt: "Logo",
       footerLink: [
