@@ -171,25 +171,25 @@ const workExperiences = {
   display: true, //Set it to true to show workExperiences Section
   experience: [
     {
+      role: "Technical Support Engineer",
+      company: "Cloudsmith",
+      companylogo: require("./assets/images/cs.png"),
+      date: "August 2024 – Present",
+      desc: "I’m a Customer Technical Support and Customer Success Engineer at Cloudsmith, where I tackle complex customer challenges, build seamless DevOps integrations, and dive into development to enhance package management workflows.",
+    },
+    {
       role: "DevSecOps Engineer",
       company: "Fev India Pvt Ltd",
       companylogo: require("./assets/images/fev11.jpeg"),
-      date: "April 2022 – Present",
+      date: "April 2022 – August 2024",
       desc: "I streamlines the development and operations pipeline, ensuring efficient deployment and management of software solutions critical to automotive design, production, and testing processes. I ensure that the secure development and deployment of automotive software solutions, maintaining best-in-class security practices within the DevOps lifecycle, and mitigating cybersecurity risks in line with industry standards and regulations.",
     },
     {
-      role: "DevSecOps Lead",
+      role: "DevSecOps Engineer",
       company: "Medius Technologies Pvt Ltd",
       companylogo: require("./assets/images/medius.avif"),
-      date: "Jan 2021 – July 2022",
+      date: "Jan 2021 – Apr 2022",
       desc: "I've spearhead the integration of development, security, and operations, ensuring the secure and efficient deployment of our cloud-based debt management solutions. I've maintained security controls, conduct risk assessments, automate deployment processes, and guide the team in implementing secure coding practices."
-    },
-    {
-      role: "DevOps Associate",
-      company: "Celebal Technologies Pvt Ltd",
-      companylogo: require("./assets/images/celebal2.png"),
-      date: "Sep 2021 – Apr 2022",
-      desc: "I was responsible for implementing and managing DevOps processes, including the deployment and orchestration of applications using Kubernetes. My role also involved DataOps tasks, ensuring efficient data pipelines, data quality, and reliable data delivery within the organization's tech stack."
     }
   ]
 };
@@ -267,19 +267,6 @@ const achievementSection = {
         {
           name: "Certification",
           url: "https://assistant.google.com/services/a/uid/000000100ee688ee?hl=en"
-        }
-      ]
-    },
-
-    {
-      title: "AWS Certified Solutions Architect",
-      subtitle: "Demonstrated proficiency in designing and implementing scalable, secure, and cost-effective solutions on the Amazon Web Services cloud platform, showcasing expertise in architecting complex systems for optimal performance and reliability.",
-      image: require("./assets/images/AWS SAA-02.png"),
-      imageAlt: "Logo",
-      footerLink: [
-        {
-          name: "Certification",
-          url: "https://raje.pro/"
         }
       ]
     },
